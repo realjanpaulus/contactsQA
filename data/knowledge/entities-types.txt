@@ -1,0 +1,13 @@
+city
+email
+fax
+firstName
+lastName
+mobile
+organization
+phone
+position
+street
+title
+website
+zip
