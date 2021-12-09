@@ -127,3 +127,21 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# custom
+app/logs/
+app/models/
+data/knowledge/entities.txt
+data/knowledge/entity-data/
+data/knowledge/type-data/
+data/samples/
+**/data/*.csv
+**/data/**/*.csv
+**/data/*.json
+**/data/*.ndjson
+**/data/**/*.json
+**/data/**/*.ndjson
+**/data/*.jsonl
+**/data/**/*.jsonl
+**/data/**/*.zip
+results*/

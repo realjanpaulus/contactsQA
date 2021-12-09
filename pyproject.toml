@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "contactsqa"
+version = "0.1.0"
+description = ""
+authors = ["realjanpaulus <janpaulus95@web.de>"]
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.11"
+pandas = "^1.3.4"
+jupyter = "^1.0.0"
+black = "^21.12b0"
+isort = "^5.10.1"
+numpy = "^1.21.4"
+transformers = "^4.12.5"
+datasets = "^1.16.1"
+torch = "^1.10.0"
+tqdm = "^4.62.3"
+plainhtml = "^0.1.2"
+sklearn = "^0.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
